@@ -2,12 +2,12 @@
 
 Your task is to implement a sorting algorithm of your choice
 
-Test your implementations with different sizes of arrays.
+Test your algorithm with different sizes of arrays.
 It is sufficient if you use int arrays.
 
 ## Generate Random Numbers
 
-Write a method to generate an array of size N initialised with random numbers. 
+Write a method to generate an array of size N and initialise it with random numbers. 
 For random numbers you can use the following expression:
 
 ~~~java
@@ -18,7 +18,7 @@ int number = new Random().nextInt(100);
 ## Sort Array
 
 Write a method that implements the sorting algorithm.
-In addition, write another method to print the array to the console.
+In addition, write another method to print the array on the console.
 
 ## Measure Runtime
 
@@ -39,6 +39,6 @@ For which array size does the execution time start to rise significantly?
 ## Compare Algorithms
 
 Compare the execution time of your algorithm with the execution time of your QuickSort or BubbleSort implementation.
-Which one is faster?
+Which one is the fastest?
 
-**Use methods for the individual tasks**. You can also use as many helper methods, as you need. Mark them as private.
+**Use methods for the individual tasks**. You can also use as many helper methods as you need. Mark them as private.
