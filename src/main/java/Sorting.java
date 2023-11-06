@@ -1,6 +1,6 @@
 public class Sorting {
     public static void main(String[] args) {
-        // TODO
+
     }
 
 
@@ -8,6 +8,9 @@ public class Sorting {
 
 
     // TODO Implement a sorting algorithm of your choice
+
+
+    // TODO Implement a printArray method
 
 
     // TODO Write a method to do a runtime analysis of your algorithm.
