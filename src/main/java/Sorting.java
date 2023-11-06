@@ -17,6 +17,9 @@ public class Sorting {
     //  For which array size does the execution time start to rise significantly?
 
 
+    // TODO Add a global static counter variables to count the number of iterations for each algorithm
+
+
     // TODO Compare the execution time of your algorithm with the execution time of your QuickSort or BubbleSort implementation
 
 

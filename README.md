@@ -18,7 +18,10 @@ int number = new Random().nextInt(100);
 ## Sort Array
 
 Write a method that implements the sorting algorithm.
-In addition, write another method to print the array on the console.
+
+## Print Array
+
+Write a method to print the array on the console.
 
 ## Measure Runtime
 
@@ -40,5 +43,9 @@ For which array size does the execution time start to rise significantly?
 
 Compare the execution time of your algorithm with the execution time of your QuickSort or BubbleSort implementation.
 Which one is the fastest?
+
+## Iteration Counter
+
+Add a global static counter variables to count the number of iterations for each algorithm
 
 **Use methods for the individual tasks**. You can also use as many helper methods as you need. Mark them as private.
