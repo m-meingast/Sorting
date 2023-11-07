@@ -1,8 +1,6 @@
+package sort;
+
 public class Sorting {
-    public static void main(String[] args) {
-
-    }
-
 
     // TODO Write a method to generate an array of size N initialised with random numbers
 
@@ -17,7 +15,7 @@ public class Sorting {
     //  For which array size does the execution time start to rise significantly?
 
 
-    // TODO Add a global static counter variables to count the number of iterations for each algorithm
+    // TODO Add global static counter variables to count the number of iterations for each algorithm
 
 
     // TODO Compare the execution time of your algorithm with the execution time of your QuickSort or BubbleSort implementation

@@ -1,6 +1,7 @@
 # Sorting
 
-Your task is to implement a sorting algorithm of your choice
+Your task is to implement a sorting algorithm of your choice. The Project Template consists of a **Main** class and a **Sorting** class. 
+Each task should be implementet in the **Sorting** class. The **Main** class should then call the respective methods you implemented.
 
 Test your algorithm with different sizes of arrays.
 It is sufficient if you use int arrays.
@@ -46,6 +47,7 @@ Which one is the fastest?
 
 ## Iteration Counter
 
-Add a global static counter variables to count the number of iterations for each algorithm
+Add global static counter variables to count the number of iterations for each algorithm and mark them as private. 
+To make the counters accessible, implement Getter methods.
 
 **Use methods for the individual tasks**. You can also use as many helper methods as you need. Mark them as private.
